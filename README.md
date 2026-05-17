@@ -6,7 +6,7 @@
 
 - 🎓 **CSE undergrad** — Kolkata, India
 - 💼 Currently interning as a **Python Full-Stack Developer** — building real-world apps end-to-end
-- 🔗 Building **[DecentralizedMessaging](https://github.com/blackmamba845/Decentralized-Messaging)** — a fully decentralised messaging app on the blockchain
+- 🔗 Builded **[Decentralized-Messaging](https://github.com/blackmamba845/Decentralized-Messaging)** — a fully decentralised messaging app on the blockchain
 - 🧠 Passionate about **Operating Systems** in the real world — process scheduling, memory management, concurrency & beyond
 - 🌐 Exploring **Web Dev**, **Blockchain / Web3**, and the intersection of all three
 - ➗ Huge fan of **mathematical problem solving** — from number theory to computational algorithms
